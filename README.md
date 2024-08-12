@@ -6,7 +6,7 @@
 
 ## How to define the parameters of your "Robotic Mixed-Model Assembly Line":
 
-1. **Create your .xlsx file**: Write down all parameters that define your case in Excel. (Some examples [here](https://www.google.com)). Name your file `DonnéesX.xlsx`, where `X` is a number (e.g., `Données3.xlsx`, `Données15.xlsx`).
+1. **Create your .xlsx file**: Write down all parameters that define your case in Excel. (Some examples [here]([https://www.google.com](https://github.com/VRiPro/Memory-Based-Cuckoo-Search-Algorithm/blob/main/MBCSA.py))). Name your file `DonnéesX.xlsx`, where `X` is a number (e.g., `Données3.xlsx`, `Données15.xlsx`).
 
     - **Sheet 1: Equipment and Energy Consumption**
         - Define the equipment.
@@ -42,3 +42,11 @@
     - **Fitness**: Energy consumption of your solution.
     - **CycleTime**: Cycle time of your solution.
     - **Calculation Time**: Time taken to compute the solution.
+
+    In the figure, you can see 10 different solutions.
+
+    - **Solution "0"**: This shows that workshops 1 & 2 should use robot 1, and workshop 3 should use robot 2. Additionally, it indicates that each workshop is assigned 4 tasks to complete.
+
+## Want to know more about this work ?
+
+Check out my detailed college report on this project: [Report](hihi.com)
