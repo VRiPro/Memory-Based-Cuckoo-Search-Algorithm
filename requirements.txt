@@ -1,0 +1,7 @@
+numpy
+openpyxl
+random
+tqdm
+pandas
+time
+tkinter
