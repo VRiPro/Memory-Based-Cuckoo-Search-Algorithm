@@ -49,4 +49,4 @@
 
 ## Want to know more about this work ?
 
-Check out my detailed college report on this project: [Report](hihi.com)
+Check out my detailed college report on this project (french version): [Report]([hihi.com](https://github.com/VRiPro/Memory-Based-Cuckoo-Search-Algorithm/blob/main/MBSCA_report.pdf))
